@@ -113,11 +113,24 @@ code .
 
 ## 📸 Screenshots
 
-Screenshots of the portfolio will be added here.
 
-<!-- Add your screenshots after uploading them to a screenshots folder -->
+## 📸 Portfolio Screenshots
 
----
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 👩‍💻 About Me
+![About Section](screenshots/about.png)
+
+### 🛠️ My Skills
+![Skills Section](screenshots/skills.png)
+
+### 🚀 Featured Projects
+![Projects Section](screenshots/projects.png)
+
+### 📩 Contact Me
+![Contact Section](screenshots/contact.png)
+
 
 ## 🌐 Connect With Me
 
