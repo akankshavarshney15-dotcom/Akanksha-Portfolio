@@ -111,8 +111,6 @@ code .
 
 ---
 
-## 📸 Screenshots
-
 
 ## 📸 Portfolio Screenshots
 
